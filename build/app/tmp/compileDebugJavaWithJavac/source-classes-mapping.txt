@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+vigenesia/org/BuildConfig.java
+ vigenesia.org.BuildConfig
